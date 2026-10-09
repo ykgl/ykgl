@@ -1,4 +1,4 @@
-Hi, I'm YK Sugi 👋
+Hi, I'm YK 👋
 
 - Role: Senior Developer Relations Engineer at Google
 - Personal GitHub: [@ykdojo](https://github.com/ykdojo)
