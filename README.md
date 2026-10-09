@@ -1,5 +1,5 @@
-### Hi, I'm YK Sugi 👋
+Hi, I'm YK Sugi 👋
 
-- **Role:** Senior Developer Relations Engineer, AI Foundation & Security at **Google**
-- **Personal GitHub:** [@ykdojo](https://github.com/ykdojo)
-- **X / Twitter:** [@ykdojo](https://x.com/ykdojo)
+- Role: Senior Developer Relations Engineer at Google
+- Personal GitHub: [@ykdojo](https://github.com/ykdojo)
+- X / Twitter: [@ykdojo](https://x.com/ykdojo)
